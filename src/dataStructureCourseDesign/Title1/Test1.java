@@ -9,6 +9,7 @@ public class Test1 {
 //        String m = in.next();
         Polynomial first = new Polynomial(2,4);
 
+        
         System.out.println("请输入想要进行的操作");
 //        String sign  = in.nextLine();
 

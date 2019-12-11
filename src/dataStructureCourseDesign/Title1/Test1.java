@@ -11,7 +11,7 @@ public class Test1 {
 
         System.out.println("请输入想要进行的操作");
 //        String sign  = in.nextLine();
-        
+
         String sign  = "+";
         System.out.println("请输入第二个一元多项式:");
 //        String n = in.next();
